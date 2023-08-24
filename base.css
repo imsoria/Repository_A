@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+html{
+	box-sizing:border-box}*,*:before,*:after{box-sizing:inherit;
+	border-radius: 25px;
+}
+
+.display-great{
+	display: none;
+}
+
+.display-medium{
+	display: none;
+}
+.display-mini{
+	display: none;
+}
+.menu{
+	padding-left: 0;
+	
+}
+.menu li{
+	display: inline;
+	list-style-type: none;
+}

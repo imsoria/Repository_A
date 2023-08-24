@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+.display-great{
+	display: inherit !important;
+}
+
+h1, h2, h3, article, footer, .menu{
+	text-align: center; /*Texto centrado */
+}
+header, footer, #wrapper{
+	margin-left: auto;
+	margin-right: auto;
+	clear: both;
+	width: 100%;
+	max-width: 1500px;
+	
+}
+
+#main-nav{
+	float:left;
+	width: 25%;
+	max-width: 300px;
+}
+#main-section{
+	margin-left: auto;
+	width: 74%;
+	max-width: 1200px;
+}

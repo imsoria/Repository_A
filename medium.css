@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+.display-medium{
+	display: inherit !important;
+	
+}
+body{
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"; /*Fuentes que se van a usar */
+	
+}
+header, footer, #main-nav, #main-section{
+	padding-left: 5%; /*Se aplica un espacio con respecto al margen izquierdo para el texto */
+}
